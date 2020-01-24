@@ -12,7 +12,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "react-leaflet": "^2.6.1",
+    "leaflet": "^1.6.0"
+  },
   "devDependencies": {
     "@types/enzyme": "^3.10.3",
     "@types/jest": "^24.0.18",
@@ -27,7 +30,6 @@
     "jest": "^24.9.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-leaflet": "^2.6.1",
     "react-router-dom": "^5.1.2",
     "ts-jest": "^24.0.2",
     "ts-loader": "^6.0.4",

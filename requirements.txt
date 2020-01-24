@@ -11,4 +11,9 @@
 Hike
     Person
     Checkpoints
-    
+
+
+- Draw map 
+    - Manually with markers
+    - Right click add audio file
+    - Or record position
